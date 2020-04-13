@@ -1,2 +1,2 @@
 # Random-color
-Generate random color for body background
+Generates random color for body background
